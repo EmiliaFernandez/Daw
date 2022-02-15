@@ -14,7 +14,6 @@ public class Daw {
 	 */
 	public static void main(String[] args) {
 		System.out.println("primera version");
-		//comentario desde GitHub
 	}
 
 }
